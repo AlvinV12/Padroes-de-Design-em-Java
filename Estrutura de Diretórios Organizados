@@ -1,0 +1,10 @@
+src/
+   ├── com/
+       ├── padrões/
+           ├── Singleton/
+               ├── Singleton.java
+           ├── FactoryMethod/
+               ├── Creator.java
+               ├── ConcreteCreator.java
+               ├── Product.java
+               ├── ConcreteProduct.java
